@@ -8,3 +8,8 @@ Los productos se cargan mediante un fichero .txt, si realizas la compra, el fich
 
     para poder poder efectuar la carga y escritura de datos es necesario cambiar la ruta de lectura/escritura de datos
     en el método loadData() y saveData de la clase Warehouse
+   
+   
+<p style="align:center">
+<img src="https://github.com/slimm1/ShoppingCart/blob/main/ejemplo.png?raw=true" width="400px">
+</p>   
