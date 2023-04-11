@@ -7,7 +7,7 @@ La consola de java despliega un menú con diferentes funciones simulando un carr
 Los productos se cargan mediante un fichero .txt, si realizas la compra, el fichero se sobreescribe.
 
     para poder poder efectuar la carga y escritura de datos es necesario cambiar la ruta de lectura/escritura de datos
-    en el método loadData() y saveData de la clase Warehouse
+    en el método loadData() y saveData() de la clase Warehouse
    
    
 <p style="align:center">
